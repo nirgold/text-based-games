@@ -8,13 +8,6 @@ def choose_word():
     word = random.choice(words)
     return word
 
-
-import tkinter as tk
-
-
-
-
-
 stack = []
 
 word = choose_word()
